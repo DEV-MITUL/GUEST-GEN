@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Image Section: Replace the 'src' link below with your own banner image link -->
-  <img src="https://via.placeholder.com/1200x500/0d1117/00ffcc?text=BM+CODEX+-+GUEST+GEN" alt="GUEST-GEN Banner" width="100%" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/DEV-MITUL/GUEST-GEN/refs/heads/main/assets/IMG_20261016_192654.jpg" alt="GUEST-GEN Banner" width="100%" style="max-width: 100%; height: auto; border-radius: 12px;" />
 
   <br><br>
 
